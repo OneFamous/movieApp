@@ -1,8 +1,4 @@
-package com.fatihates.movieapp.data.status
-
-import android.net.Network
-import android.net.NetworkRequest
-import androidx.core.widget.ContentLoadingProgressBar
+package com.fatihates.movieapp.data.data.status
 
 enum class Status {
     RUNNING,
